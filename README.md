@@ -1,5 +1,5 @@
 # TSPsolver_v29-4-2023 
-TSP Solver with 8 algorithms (combinations exist), 
+TSP Solver with 8 algorithms (combinations do exist), 
 Traveling Salesman Problem Solver
 
 F2, NNH,               Nearest neighbour as the simplest heuristic there exists 
