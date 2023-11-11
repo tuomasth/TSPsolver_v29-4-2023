@@ -22,4 +22,4 @@ F8, SOM-CH-NN-EVO,     Same as F7 but with a bit more clusters and evolution is 
  
 F9, LK-SOM-CH-NN-EVO,  Same as F8 but the F6's quick Lin-Kernighan is used in the end once 
 
-Javadoc is not available on GitHub for this version. This version is only a "trial" and should not be taken seriously like the next upcoming version should.
+Javadoc is not available on GitHub for this version. This version is only an experiment and should not be taken seriously yet like the next upcoming version should.
